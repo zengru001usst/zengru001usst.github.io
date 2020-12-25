@@ -2,7 +2,7 @@
 
 Hi! everyone.  
 
-I'm now an undergraduate student at University of ShangHai for Science and Technology and majoring in automation.  
+I'm now an graduate student at University of ShangHai for Science and Technology and majoring in automation.  
 
 e-mail: zengru_neo@163.com
 
