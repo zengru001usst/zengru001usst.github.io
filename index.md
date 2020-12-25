@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to zengru's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zengru001usst/zengru001usst/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! everyone.
+I'm now an undergraduate student at University of ShangHai for Science and Technology and majoring in automation.
+e-mail: zengru_neo@163.com
 
 ### Markdown
 
